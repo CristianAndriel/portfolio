@@ -1,0 +1,81 @@
+/* btn-default */
+
+/* btn-default */
+
+/* destaque */
+
+/* destaque */
+
+/* Menu */
+
+/* Menu */
+
+/* Inicio */
+
+/* Inicio */
+
+/* Redes sociais */
+
+/* Redes sociais */
+
+/* Sobre mim */
+
+/* Sobre mim */
+
+/* Projetos */
+
+/* Projetos */
+
+/* Meus serviços */
+
+/* Meus serviços */
+
+/* Minhas habilidades */
+
+/* Minhas habilidades  */
+
+/* Formulário */
+.formulario {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 300px;
+}
+
+.formulario h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #000;
+}
+
+.formulario input,
+.formulario textarea,
+.formulario button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 20px;
+  border: 1px solid #dcdcdc;
+  background-color: #e8e8e8;
+  font-size: 14px;
+  color: #555;
+}
+
+.formulario textarea {
+  height: 100px;
+  resize: none;
+}
+
+.formulario button {
+  background-color: #3a3aff;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.formulario button:hover {
+  background-color: #2828d9;
+}
